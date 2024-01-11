@@ -1,4 +1,4 @@
-GitPython==0.3.2.RC1
+GitPython==3.1.41
 async==0.6.1
 -e git+https://github.com/AaronO/dulwich.git@a1aa061e5b6c8d6acbe805f174205d2323231449#egg=dulwich-dev
 funky==0.0.1
