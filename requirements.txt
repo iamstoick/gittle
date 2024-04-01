@@ -11,6 +11,6 @@ mercurial==2.4
 -e git+ssh://git@friendco.de/opt/git/friendcode/mimer.git@6a5704dc307ec9c6f3feb5e3a60cd469b449d5eb#egg=mimer-dev
 paramiko==1.10.0
 pycrypto==2.6
-pylint==0.26.0
+pylint==2.6.1
 smmap==0.8.2
 wsgiref==0.1.2
